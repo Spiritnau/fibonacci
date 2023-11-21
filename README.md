@@ -1,2 +1,2 @@
 # fibonacci
-![image](https://github.com/Spiritnau/fibonacci/assets/73468506/f49daab6-65d2-42aa-8ce9-15913fa98dc1)
+[![Build Status](http://ec2-18-153-85-134.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci)](http://ec2-18-153-85-134.eu-central-1.compute.amazonaws.com/job/fibonacci/)
